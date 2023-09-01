@@ -1,5 +1,8 @@
 # Voxel-based morphometry Enigma Toolbox
 
+![ENIGMA VBM L Hippocampus](ENigma_VBM_L_hippocampus_Remy.png)
+
+
 ### Description
 
 I designed this code to process and visualise neuroimaging data from the ENIGMA repository. ENIGMA stands for the Enhancing Neuro Imaging Genetics through Meta Analysis. It is a global alliance of researchers working together in a coordinated manner to understand several major brain diseases. The ENIGMA initiative focuses on harnessing genetic and imaging data to better understand brain structures and functions, with the ultimate goal of deciphering disorders and diseases affecting the brain.
@@ -42,9 +45,17 @@ The ENIGMA consortium is an international effort by leaders worldwide. The netwo
 - `enigmatoolbox`
 - `PIL`
 
-## How to Run:
-1. Ensure all dependencies are installed.
-2. Clone this repository: `git clone <repository-url>`.
-3. Navigate to the directory and run: `python <script-name>.py`.
+
+![ENIGMA VBM L Hippocampus](Enigma_boxplot.png)
+
+![ENIGMA VBM L Hippocampus](Enigma_heatmap_SA.png)
+
+![ENIGMA VBM L Hippocampus](Enigma_heatmap_SV.png)
+
+![ENIGMA VBM L Hippocampus](Enigma_mean_zscores_CT.png)
+
+![ENIGMA VBM L Hippocampus](mosaic.png)
+
+
 
 
