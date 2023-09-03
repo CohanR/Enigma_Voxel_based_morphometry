@@ -5,8 +5,7 @@
 
 ### Description
 
-I designed this code to process and visualise neuroimaging data from the ENIGMA repository. ENIGMA stands for the Enhancing Neuro Imaging Genetics through Meta Analysis. It is a global alliance of researchers working together in a coordinated manner to understand several major brain diseases. The ENIGMA initiative focuses on harnessing genetic and imaging data to better understand brain structures and functions, with the ultimate goal of deciphering disorders and diseases affecting the brain.
-
+I designed this code to process and visualise neuroimaging data from the ENIGMA repository. ENIGMA stands for the Enhancing Neuro Imaging Genetics through Meta Analysis.is an international effort by leaders worldwide. The Consortium brings together researchers in imaging genomics, neurology and psychiatry, to understand brain structure and function, based on MRI, DTI, fMRI, genetic data and many patient populations (https://enigma.ini.usc.edu/).
 The code primarily does the following:
 1. **Loading Example Data:** It makes use of the `enigmatoolbox` library to load example datasets. This toolbox provides utilities specific to the ENIGMA data processing.
    
